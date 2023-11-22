@@ -11,6 +11,6 @@
 #5. What age group is most affected by comparison on social media?
 #6. How does comparison on social media correlate with feelings of distress?
 #7. Who spends most time with social media?
-#8. Does occupation status relatee to seeking validation on social media?
+#8. Does occupation status relate to seeking validation on social media?
 #9. Is there a difference in social media's effect on mental health between genders?
 #10. Does social media's affect on sleep issues vary among different age groups?
